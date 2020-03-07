@@ -11,10 +11,10 @@ export const Skills = () => (
         <img src={dev} alt="Developer" />
       </Thumbnail>
       <Details>
-        <h1>Hi There!</h1>
+        <h1>Want to know more?</h1>
         <p>
-          Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s
-          standard dummy.
+          Currently Technical Leader at Decathlon, I am thirsty for learning and sharing! Indeed, passionate about IT, I
+          like to keep abreast of new developments in the field, whether technical or leisure. {'<I love={coding} />'}
         </p>
         <Button as={AnchorLink} href="#contact">
           Contact me

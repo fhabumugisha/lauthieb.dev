@@ -1,10 +1,10 @@
 module.exports = {
-  defaultTitle: 'Laurent Thiebault',
+  defaultTitle: 'Laurent Thiebault | Front-End Engineer',
   logo: 'assets/icons/favicon-512.png',
   author: 'Laurent Thiebault',
   url: 'https://lauthieb.dev',
   legalName: 'Laurent Thiebault',
-  defaultDescription: 'I’m Laurent Thiebault and I’m a Front-End Engineer!',
+  defaultDescription: 'I’m Laurent Thiebault, Front-End Engineer, Founder of React Beer Lille & Musician!',
   socialLinks: {
     twitter: 'http://www.twitter.com/lauthieb',
     github: 'https://github.com/lauthieb',

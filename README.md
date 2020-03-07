@@ -90,10 +90,6 @@ yarn reset
 - VSCode
 - And these useful of JavaScript libraries & Gatsby plugins [package.json](package.json)
 
-## Theme
-
-[Gatsby-theme-portfolio](https://github.com/smakosh/gatsby-theme-portfolio)
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details

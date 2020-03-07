@@ -48,6 +48,10 @@ export const Details = styled.div`
       font-size: 26pt;
     }
   }
+
+  a {
+    color: #008cec;
+  }
 `;
 
 export const Thumbnail = styled.div`
@@ -59,5 +63,13 @@ export const Thumbnail = styled.div`
 
   img {
     width: 100%;
+  }
+`;
+
+export const Picture = styled.div`
+  flex: 1;
+  img {
+    width: 22%;
+    border-radius: 50%;
   }
 `;
