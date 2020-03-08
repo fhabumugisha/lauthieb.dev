@@ -14,7 +14,7 @@ export const Skills = () => (
         <h1>Want to know more?</h1>
         <p>
           Currently Technical Leader at Decathlon, I am thirsty for learning and sharing! Indeed, passionate about IT, I
-          like to keep abreast of new developments in the field, whether technical or leisure. {'<I love={coding} />'}
+          like to keep abreast of new developments in the field, whether technical or leisure.
         </p>
         <Button as={AnchorLink} href="#contact">
           Contact me
