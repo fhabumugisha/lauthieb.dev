@@ -12,11 +12,11 @@ module.exports = {
     instagram: 'https://instagram.com/lauthieb',
     youtube: 'https://www.youtube.com/c/lauthieb',
   },
-  googleAnalyticsID: 'UA-88875900-4',
+  googleAnalyticsID: 'UA-159935831-1',
   themeColor: '#008cec',
   backgroundColor: '#008cec',
   social: {
-    facebook: 'appId',
+    facebook: '531972604093334',
     twitter: '@lauthieb',
   },
   contact: {
@@ -24,5 +24,5 @@ module.exports = {
     phone: 'phone number',
   },
   foundingDate: '2020',
-  recaptcha_key: '6Lcs6lQUAAAAAEwhNH2IsobIe2csdda4TU3efpMN',
+  recaptcha_key: '6Lcsmd8UAAAAAATvtQDF9tL3lU0L3j4557KT-drZ',
 };
