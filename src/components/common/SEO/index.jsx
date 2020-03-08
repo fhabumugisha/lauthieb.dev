@@ -43,13 +43,15 @@ export const SEO = ({ title = defaultTitle, description = defaultDescription, lo
   return (
     <Helmet>
       <meta name="description" content={description} />
-      <meta name="image" content={Thumbnail} />
+      <meta name="image" content={`${Thumbnail}?549949`} />
 
       <meta property="og:url" content={`${url}${location}`} />
       <meta property="og:type" content="website" />
       <meta property="og:title" content={title} />
       <meta property="og:description" content={description} />
       <meta property="og:image" content={Thumbnail} />
+      <meta property="og:image:width" content="2880" />
+      <meta property="og:image:height" content="1572" />
       <meta property="fb:app_id" content={social.facebook} />
 
       <meta name="twitter:card" content="summary" />
@@ -57,7 +59,11 @@ export const SEO = ({ title = defaultTitle, description = defaultDescription, lo
       <meta name="twitter:site" content={social.twitter} />
       <meta name="twitter:title" content={title} />
       <meta name="twitter:description" content={description} />
-      <meta name="twitter:image:src" content={Thumbnail} />
+      <meta
+        name="twitter:image:src"
+        content="https://lauthieb.dev/static/thumbnail-5c0ae8200cd073837478a883b8c56934.png?549949"
+      />
+      <meta name="twitter:image:alt" content="Portfolio of Laurent Thiebault" />
       <script type="application/ld+json">{structuredDataOrganization}</script>
       <link rel="publisher" href={socialLinks.google} />
       <title>{title}</title>
