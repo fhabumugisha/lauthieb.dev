@@ -1,4 +1,4 @@
-# lauthieb.dev 
+# [lauthieb.dev](https://lauthieb.dev)
 
 Portfolio of Laurent Thiebault 🚀
 
