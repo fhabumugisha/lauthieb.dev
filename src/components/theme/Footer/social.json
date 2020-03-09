@@ -13,6 +13,24 @@
   },
   {
     "id": 2,
+    "name": "LinkedIn",
+    "link": "https://linkedin.com/in/lauthieb",
+    "icon": "/icons/linkedin.svg"
+  },
+  {
+    "id": 3,
+    "name": "DEV.to",
+    "link": "https://dev.to/lauthieb",
+    "icon": "/icons/devto.svg"
+  },
+  {
+    "id": 4,
+    "name": "YouTube",
+    "link": "https://youtube.com/c/lauthieb",
+    "icon": "/icons/youtube.svg"
+  },
+  {
+    "id": 5,
     "name": "StackOverflow",
     "link": "https://stackoverflow.com/users/9497963/laurent-thiebault",
     "icon": "/icons/stackoverflow.svg"
