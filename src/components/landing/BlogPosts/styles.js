@@ -32,9 +32,11 @@ export const Item = styled.div`
 
   h4 {
     color: #212121;
+    margin-bottom: 6px;
   }
 
   p {
+    font-size: 12px;
     color: #707070;
   }
 `;
