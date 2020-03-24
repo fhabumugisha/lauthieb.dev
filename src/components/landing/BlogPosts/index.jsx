@@ -30,7 +30,7 @@ export const BlogPosts = () => {
   }, []);
 
   return (
-    <Wrapper as={Container} id="projects">
+    <Wrapper as={Container} id="blog-posts">
       <h2>Blog Posts</h2>
       <Grid>
         {posts.map(({ title, slug, url, social_image, published_at }) => (
